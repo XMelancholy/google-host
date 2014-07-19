@@ -571,3 +571,6 @@
 74.125.21.98    developer.chrome.com
 74.125.21.97    ssl.google-analytics.com
 74.125.21.98    www.google-analytics.com
+
+#andorid
+74.125.21.98    android.googlesource.com
